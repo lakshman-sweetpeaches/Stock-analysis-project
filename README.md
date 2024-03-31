@@ -50,7 +50,7 @@
 
   - Risk and return of both stocks is calculated and plotted using a scatter plot with labels for the stocks. 
 
-###Project snapshots:
+### Project snapshots:
 ![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/eb2eecfc-6f3d-4238-a578-d88563e96eef)
 ![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/c0715078-1708-40bc-a337-d6ae8bb74231)
 ![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/d543028d-3130-43d3-959d-0901b35ed38d)
