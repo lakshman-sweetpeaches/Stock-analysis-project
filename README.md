@@ -8,36 +8,49 @@
 ### The stock analysis methods and visualizations are split into 9 tabs which display the visualized data:
 
 - Dashboard:
+
   - Shows the adjusted closing prices for both stocks along with a metric widget to show the percentage change in the stock that is also color coded and changes based on the positive or negative delta.
+
   - Shows the volume weighted average price (VWAP) for both stocks with a simple uptrend or downtrend analysis on the parameters of close price being higher or lower than the volume weighted average price.
+
   - Shows the daily returns of both stocks as a bar chart.
 
 - Closing price:
+
   - Adjusted closing price of both stocks are plotted seperately and also overlayed for comparison.
 
 - Moving average:
+
   - The slider is used to selected the parameter for the moving average calculation and the moving average for both graphs is plotted overlayed with the closing price.
+
   - Checkbox below to calculate multiple moving averages for different time frames can also allow for the calculation and plotting of 3 moving averages with 3 sliders for changing the parameters.
 
 
 - Stock volume:
+
   - Volume of both stocks are plotted seperately and also overlayed for comparison.
 
 - Daily return:
+
   - Daily return of both stocks is calculated and plotted as a scatter plot along with two histograms with bell curves overlaid to check the sharpness of the peak.
 
 - Volume weighted average price:
+
   - Volume weighted average price of both stocks is calculated and plotted along with the closing price for comparison.
 
 - Correlation:
+
   - Correlation between two stocks is calculated and represented as Pearson Coefficient(R) along with a joint scatter plot to visualize the correlation.
 
 - Volatility:
+
   - Stock volatility is calculated and plotted as a line chart seperately and together for comparison.
 
 - Risk and return:
+
   - Risk and return of both stocks is calculated and plotted using a scatter plot with labels for the stocks. 
 
+###Project snapshots:
 ![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/eb2eecfc-6f3d-4238-a578-d88563e96eef)
 ![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/c0715078-1708-40bc-a337-d6ae8bb74231)
 ![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/d543028d-3130-43d3-959d-0901b35ed38d)
