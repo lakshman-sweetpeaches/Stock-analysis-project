@@ -17,8 +17,6 @@
 
 - Moving average:
   - The slider is used to selected the parameter for the moving average calculation and the moving average for both graphs is plotted overlayed with the closing price.
-
-https://github.com/lakshman-sweetpeaches/Stock-analysis-project/blob/bcd51ba95830f893f0f795ba1f8ba9594c92a3f4/main.py#L122C17-L123C88
   - Checkbox below to calculate multiple moving averages for different time frames can also allow for the calculation and plotting of 3 moving averages with 3 sliders for changing the parameters.
 
 
