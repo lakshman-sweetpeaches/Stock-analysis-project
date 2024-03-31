@@ -37,3 +37,18 @@
 
 - Risk and return:
   - Risk and return of both stocks is calculated and plotted using a scatter plot with labels for the stocks. 
+
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/eb2eecfc-6f3d-4238-a578-d88563e96eef)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/c0715078-1708-40bc-a337-d6ae8bb74231)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/d543028d-3130-43d3-959d-0901b35ed38d)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/709c8fd1-9e04-45b5-891c-a90dcdd248f8)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/3ed4f954-ec75-4777-8684-47793bfee60d)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/0c00ca62-ee6f-4b3a-97c6-0b194c35fc07)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/4c3f3c02-7b22-4596-8f21-b759a3e37d83)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/50fc6c9e-f1e1-4791-9ce9-fa9182e333b9)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/0cb8620b-6fbf-4069-b176-49f9425deb79)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/89f81ad3-bf8c-4d1f-bd36-03a0abc618cd)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/08c5c759-3bff-4636-9279-856775232b03)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/73a30a19-2eda-487f-9896-e0dfe3fbe925)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/6e089b54-24ea-493b-88c9-37039629d95f)
+![image](https://github.com/lakshman-sweetpeaches/Stock-analysis-project/assets/142110475/b8a10d40-bdde-4c73-9cb5-8e2fc240e648)
