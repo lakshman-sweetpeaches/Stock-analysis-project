@@ -1,5 +1,5 @@
 # Stock analysis project
- Semester 2 Python project, This project is a small interactive web-app for stock analysis, using the [Streamlit library](https://github.com/streamlit/streamlit) for a simple frontend, fetching stock data using the [Yfinance library](https://github.com/ranaroussi/yfinance), analyzing the stock data using [pandas](https://github.com/pandas-dev/pandas) and plotting graphs using [Streamlit plots](https://docs.streamlit.io/library/api-reference/charts), [Matplotlib](https://github.com/matplotlib/matplotlib), and [Seaborn](https://github.com/mwaskom/seaborn).
+Semester-2 project for course CSEN1021, This project is a small interactive web-app for stock analysis, using the [Streamlit library](https://github.com/streamlit/streamlit) for a simple frontend, fetching stock data using the [Yfinance library](https://github.com/ranaroussi/yfinance), analyzing the stock data using [pandas](https://github.com/pandas-dev/pandas) and plotting graphs using [Streamlit plots](https://docs.streamlit.io/library/api-reference/charts), [Matplotlib](https://github.com/matplotlib/matplotlib), and [Seaborn](https://github.com/mwaskom/seaborn).
 
 ## Functionality:
 
